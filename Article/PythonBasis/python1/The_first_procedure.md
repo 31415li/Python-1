@@ -4,6 +4,12 @@
 
 一开始写 Python 程序，个人不太建议用专门的工具来写，不方便熟悉语法，所以这里我先用 [Sublime Text](http://www.sublimetext.com/) 来写，后期可以改为用 PyCharm 。
 
+
+
+**PyCharm**具有语法高亮
+
+
+
 第一个 Python 程序当然是打印 Hello Python 啦。
 
 如果你没编程经验，什么都不懂，没关系，第一个 Python 程序，只要跟着做，留下个印象，尝试一下就好。
